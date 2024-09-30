@@ -13,4 +13,4 @@ start MySQL
 start phpmyadmin
 ```
 ## Now Website Open
-Open [http://localhost/phptut/Projects/College_REPO/Project-%20Fitness%20Hub/before_login/homepage.html] with your browser to see the result.
+Open [http://localhost/phptut/Projects/College_REPO/Project-%20Fitness%20Hub/before_login/homepage.html/] with your browser to see the result.
